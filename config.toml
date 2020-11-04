@@ -1,5 +1,5 @@
 title = "Riding Free"
-baseURL = "https://brucelidl.netlify.app/"
+baseURL = "https://ridingfree.org/"
 theme = "bilberry-hugo-theme"
 
 # Generate the robots.txt file for SEO

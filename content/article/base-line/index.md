@@ -10,3 +10,4 @@ author: "Bruce"
 ---
 
 My first attempt at getting something written.
+<img class="special-img-class" src="/palp.jpg" />

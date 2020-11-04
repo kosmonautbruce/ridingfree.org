@@ -10,4 +10,6 @@ author: "Bruce"
 ---
 
 My first attempt at getting something written.
-<img class="special-img-class" src="/palp.jpg" />
+![The Senate](palp.jpg)
+Almost as evil, but not quite.
+![Totoro-Domino](dogs.jpg)

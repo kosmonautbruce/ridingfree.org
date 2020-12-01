@@ -118,13 +118,13 @@ disqusShortname = ""
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
-      { link = "https://twitter.com/TheRealLednerb", icon = "fab fa-twitter" },
-      { link = "https://github.com/Lednerb", icon = "fab fa-github" },
+      { link = "https://twitter.com/ridingfreeorg", icon = "fab fa-twitter" },
+      { link = "https://github.com/kosmonautbruce", icon = "fab fa-github" },
     ]
 
     # credits line configuration
     copyrightBy = "by Bruce Lidl"
-    copyrightUseCurrentYear = false  # set to true to always display the current year in the copyright
+    copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
     copyrightYearOverride = "2020"
     copyrightUrl = "https://github.com/kosmonautbruce"
     creditsText = "Bilberry Hugo Theme"

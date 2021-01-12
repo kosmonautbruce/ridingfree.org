@@ -1,3 +1,14 @@
+---
+title: "A Truth about Errol Morris"
+date: 
+draft: true
+
+categories: ["film"]
+tags: []
+toc: false
+author: "Bruce"
+---
+
 # A Truth about Errol Morris?
 
 Errol Morris' maddeningly entertaining new film *My Psychedelic Love Story* is a another installment in his 

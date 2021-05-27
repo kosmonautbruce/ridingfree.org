@@ -11,3 +11,4 @@ target: "_blank"
 ---
 
 Content to be added.
+Bruce Lidl is a veteran technology professional currently living in Davis, CA.
